@@ -1,0 +1,19 @@
+#logo {
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#subtitle {
+  text-align: center;
+  border-top: solid 0.1rem #fee8af;
+  background-color: #fdfbf1;
+}
+.container {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.featured p {
+  color: red;
+}
